@@ -1,5 +1,7 @@
 # API для проекта YamDB
 
+Проект лежит по адресу: 84.201.158.33/api/v1/categories/
+
 ![yamdb workflow](https://github.com/1karp/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ## Описание проекта
